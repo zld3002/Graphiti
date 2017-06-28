@@ -1,0 +1,5 @@
+		
+		// Moving a book
+		if (businessObject instanceof Book) {
+			return new MoveBookFeature(this);
+		}

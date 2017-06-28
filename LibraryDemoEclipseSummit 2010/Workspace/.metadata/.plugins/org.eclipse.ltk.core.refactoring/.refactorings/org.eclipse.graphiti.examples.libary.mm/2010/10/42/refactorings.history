@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;org.eclipse.graphiti.examples.libary.mm&apos;&#x0D;&#x0A;- Original project: &apos;org.eclipse.graphiti.examples.libary.mm&apos;&#x0D;&#x0A;- Original element: &apos;Library.ecore_diagram&apos;" description="Delete element" element1="model/Library.ecore_diagram" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1287412363955" subPackages="false" version="1.0"/>
+</session>

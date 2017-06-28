@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.eclipse.graphiti.examples:Library xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.graphiti.examples="http://eclipse.org/graphiti/mm/examples/library" name="Classic Books">
+  <books name="Don Quixote" author="Miguel de Cervantes"/>
+  <books name="Gulliver&#x2019;s Travels" author="Jonathan Swift"/>
+  <books name="Pride and Prejudice" author="Jane Austen"/>
+  <books name="Oliver Twist" author="Charles Dickens"/>
+  <books name="The Scarlet Letter" author="Nathaniel Hawthorne"/>
+  <books name="Moby-Dick" author="Herman Melville"/>
+  <books name="Madame Bovary" author="Gustave Flaubert"/>
+  <books name="Crime and Punishment" author="Fyodor Dostoevsky"/>
+  <books name="Adventures of Huckleberry Finn" author="Mark Twain"/>
+  <books name="The Trial" author="Franz Kafka"/>
+</org.eclipse.graphiti.examples:Library>

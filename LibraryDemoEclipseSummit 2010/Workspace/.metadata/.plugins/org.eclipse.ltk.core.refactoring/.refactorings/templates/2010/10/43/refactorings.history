@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MoveBookFeature.java&apos; to &apos;org.eclipse.graphiti.examples.library/src/org.eclipse.graphiti.examples.library.features&apos;&#x0D;&#x0A;- Original project: &apos;templates&apos;&#x0D;&#x0A;- Destination element: &apos;org.eclipse.graphiti.examples.library/src/org.eclipse.graphiti.examples.library.features&apos;&#x0D;&#x0A;- Original element: &apos;MoveBookFeature.java&apos;" description="Copy file" destination="=org.eclipse.graphiti.examples.library/src&lt;org.eclipse.graphiti.examples.library.features" element1="MoveBookFeature.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1288180458314" units="0" version="1.0"/>
+</session>

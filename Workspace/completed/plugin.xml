@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.emf.ecore.generated_package">
+      <package
+            class="org.eclipse.graphiti.examples.mm.chess.ChessPackage"
+            genModel="model/chess.genmodel"
+            uri="http://eclipse.org/graphiti/examples/chess">
+      </package>
+   </extension>
+   <extension
+         point="org.eclipse.graphiti.ui.diagramTypes">
+      <diagramType
+            id="chessdemo.ChessDiagramType"
+            name="Diagram Type for Chess Demo"
+            type="chessDemo">
+      </diagramType>
+   </extension>
+   <extension
+         point="org.eclipse.graphiti.ui.diagramTypeProviders">
+      <diagramTypeProvider
+            class="demo.ChessDiagramTypeProvider"
+            id="chessdemo.ChessDiagramTypeProvider"
+            name="Chess Demo Editor">
+         <diagramType
+               id="chessdemo.ChessDiagramType">
+         </diagramType>
+      </diagramTypeProvider>
+   </extension>
+</plugin>
